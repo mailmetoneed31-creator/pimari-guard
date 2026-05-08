@@ -1,0 +1,20 @@
+{
+  "publish_actions": 90,
+  "manage_pages": 85,
+  "read_insights": 70,
+  "read_mailbox": 95,
+  "user_friends": 50,
+  "user_birthday": 40,
+  "user_location": 60,
+  "email": 45,
+  "public_profile": 5,
+  "groups_access_member_info": 70,
+  "pages_show_list": 30,
+  "ads_management": 80,
+  "leads_retrieval": 75,
+  "user_posts": 65,
+  "user_photos": 60,
+  "user_videos": 60,
+  "user_link": 45,
+  "user_gender": 20
+}
